@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-### 📊 GitHub Stats: 
-
-![Yuki-bach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuki-bach&show_icons=true&theme=onedark)
-
-### 📚 Top Languages: 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-bach&size_weight=0.5&count_weight=0.5&theme=onedark)
-
-### 🏆 Trophy: 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yuki-bach&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) <br /><br />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Yuki-bach&show_icons=true&theme=onedark" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-bach&size_weight=0.5&count_weight=0.5&theme=onedark" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 <!--
 **Yuki-bach/Yuki-bach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
