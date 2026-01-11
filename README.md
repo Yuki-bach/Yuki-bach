@@ -1,12 +1,4 @@
 ### Hi there 👋
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Yuki-bach&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki-bach&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="Top Languages" /></td>
-  </tr>
-</table>
-
 <!--
 **Yuki-bach/Yuki-bach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
